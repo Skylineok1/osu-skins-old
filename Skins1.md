@@ -1,4 +1,4 @@
-# List of skins that I might be using
+# Skins I use
 
 # [- 『BlooMoon』 - [Skyline Edit]](https://skyline.s-ul.eu/5miAmHBM)
 ![](https://osu.ppy.sh/ss/17776131/30b7)
